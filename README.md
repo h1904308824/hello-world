@@ -1,3 +1,3 @@
 # hello-world
 Just another repository
-everything will be ok
+一切都会变好少时诵诗书
